@@ -78,6 +78,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     vendor.lineage.touch@1.0-service.sdm660
 
+# MotCamera2
+PRODUCT_PACKAGES += \
+    MotCamera2
+
 # NFC
 PRODUCT_PACKAGES += \
     android.hardware.nfc@1.2-service \
