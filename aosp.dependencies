@@ -16,9 +16,9 @@
     "branch":      "ten"
   },
   { 
-    "repository":  "trpsl/packages_apps_googlecamera",
-    "target_path": "packages/apps/GoogleCamera",
-    "branch":      "payton",
-    "remote":      "bitbucket"
+    "repository"  : "packages_apps_MotCamera2",
+    "target_path" : "packages/apps/MotCamera2",
+    "branch"      : "ten-denali",
+    "remote"      : "pixel-devices-blobs"
   }
 ]
