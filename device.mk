@@ -52,11 +52,11 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/idc/uinput-fpc.idc:$(TARGET_COPY_OUT_VENDOR)/usr/idc/uinput-fpc.idc
 
 # FM
-PRODUCT_PACKAGES += \
-    FM2 \
-    libqcomfm_jni \
-    init.qti.fm.sh \
-    qcom.fmradio
+#PRODUCT_PACKAGES += \
+#    FM2 \
+#    libqcomfm_jni \
+#    init.qti.fm.sh \
+#    qcom.fmradio
 
 PRODUCT_BOOT_JARS += qcom.fmradio
 
